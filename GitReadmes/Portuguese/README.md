@@ -48,7 +48,7 @@ para lhe assegurar 100%
 - git stash drop stash@{0}
 - git stash list
 
-# If you Delete a branch from the remote
+# Se você apaga um ramo do remoto
 
 - git remote prune origin --dry-run
 - git remote prune origin
@@ -63,7 +63,7 @@ Para restaurar o ramo
 Para voltar a um certo commit, por exemplo:
 git rebase -i HEAD~4
 
-Este comando devolverá 4 commits a partir de HEAD
+Este comando retornará 4 commits a partir de HEAD
 
 ### Substituir "pick" por "reword" e guardar as alterações
 
