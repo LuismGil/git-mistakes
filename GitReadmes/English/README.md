@@ -24,7 +24,7 @@ Return the commit
 
 ## git revert "Hash Commit"
 
-Return the commit
+Return to the commit
 
 ## git cherry-pick "Hash Commit"
 
