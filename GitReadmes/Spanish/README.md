@@ -69,7 +69,9 @@ Este comando devolverá 4 commits a partir de HEAD
 
 (Nuevo nombre del Commit)
 
+
+## git push origin -f
+
 Para forzar un push cuando eliminamos un commit localmente y ya estaba en el repositorio
--- git push origin -f
 
 
