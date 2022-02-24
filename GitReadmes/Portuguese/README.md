@@ -68,3 +68,7 @@ Este comando retornará 4 commits a partir de HEAD
 ### Substituir "pick" por "reword" e guardar as alterações
 
 (Novo nome do Commit)
+
+Para forçar um push quando eliminamos um commit localmente e já estava no remoto
+-- git push origin -f
+
